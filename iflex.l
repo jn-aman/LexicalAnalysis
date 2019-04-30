@@ -4,6 +4,7 @@ und [_]
 space [ ]
 
 %{
+	
 int yylineno;
 
 #define IF 1
